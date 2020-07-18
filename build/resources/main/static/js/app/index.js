@@ -8,7 +8,6 @@ var main = {
             _this.update();
         });
         $('#btn-delete').on('click', function(){
-            console.log("hi");
             _this.delete();
         });
     },
